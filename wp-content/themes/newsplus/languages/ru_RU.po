@@ -1,0 +1,2442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsPlus v2.4.2\n"
+"POT-Creation-Date: 2016-04-14 14:51+0530\n"
+"PO-Revision-Date: 2016-04-14 14:51+0530\n"
+"Last-Translator: Saurabh <saagar_1982@yahoo.com>\n"
+"Language-Team: Saurabh Sharma <saagar_1982@yahoo.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _e;__;_n;_n:1,2;_nx:1,2c;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "Nothing found!"
+msgstr "Ничего не найдено!"
+
+#: ../404.php:15 ../content-classic.php:13 ../content-full.php:13
+#: ../content-grid.php:13 ../content-list.php:13 ../page.php:26
+#: ../plugin-buddypress.php:28 ../search.php:15 ../single.php:174
+#: ../templates/archive-2col.php:77 ../templates/archive-3col.php:77
+#: ../templates/archive-4col.php:77 ../templates/blog-classic.php:59
+#: ../templates/blog-full.php:62 ../templates/blog-grid.php:77
+#: ../templates/blog-list.php:72 ../templates/page-contact.php:124
+#: ../templates/page-full.php:28 ../templates/page-sb-left.php:28
+#: ../templates/page-sb-right.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы не можем найти то, что Вы искали. Возможно поиск поможет Вам"
+
+#: ../comments.php:16
+#, php-format
+msgctxt "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Один комментарий к записи &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "Комментарии скрыты."
+
+#: ../content-classic.php:10 ../content-full.php:10 ../content-grid.php:10
+#: ../content-list.php:10 ../page.php:23 ../plugin-buddypress.php:25
+#: ../search.php:12 ../single.php:171 ../templates/archive-2col.php:74
+#: ../templates/archive-3col.php:74 ../templates/archive-4col.php:74
+#: ../templates/blog-classic.php:56 ../templates/blog-full.php:59
+#: ../templates/blog-grid.php:74 ../templates/blog-list.php:69
+#: ../templates/page-contact.php:121 ../templates/page-full.php:25
+#: ../templates/page-sb-left.php:25 ../templates/page-sb-right.php:25
+msgid "Nothing Found"
+msgstr "Страница не найдена"
+
+#: ../content-classic.php:27 ../content-full.php:28 ../content-list.php:34
+#: ../templates/blog-classic.php:49 ../templates/blog-full.php:52
+#: ../templates/blog-list.php:58
+msgid "Read more"
+msgstr "Подробнее"
+
+#: ../content-list.php:34 ../templates/blog-classic.php:49
+#: ../templates/blog-list.php:58
+msgid "Read full post"
+msgstr "Читайте полный пост"
+
+#: ../footer.php:91
+msgid "Scroll to top"
+msgstr "Вверх"
+
+#: ../functions.php:58
+msgid "Secondary Top Menu"
+msgstr "Дополнительное меню"
+
+#: ../functions.php:59
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../functions.php:164
+msgid "Expand or collapse menu items."
+msgstr "Развернуть или свернуть элементы меню"
+
+#: ../functions.php:308 ../functions.php:310
+msgid "Top widget area"
+msgstr "Верхняя часть виджета"
+
+#: ../functions.php:318
+msgid "Fixed widget area left"
+msgstr "Фиксированный виджет области влево"
+
+#: ../functions.php:320
+msgid "Fixed widget area on left side"
+msgstr "Фиксированный виджет область на левой стороне"
+
+#: ../functions.php:328
+msgid "Fixed widget area right"
+msgstr "Фиксированные виджет области права"
+
+#: ../functions.php:330
+msgid "Fixed widget area on right side"
+msgstr "Фиксированный виджет область на правой стороне"
+
+#: ../functions.php:338
+msgid "Default Header Bar"
+msgstr "По умолчанию Заголовок"
+
+#: ../functions.php:340
+msgid "Header Bar"
+msgstr "Заголовок"
+
+#: ../functions.php:349
+msgid "Default Header Column 1"
+msgstr "По умолчанию заголовок столбца 1"
+
+#: ../functions.php:351
+msgid "Header column 1"
+msgstr "Заголовок столбца 1"
+
+#: ../functions.php:359
+msgid "Default Header Column 2"
+msgstr "По умолчанию заголовок столбца 2"
+
+#: ../functions.php:361
+msgid "Header column 2"
+msgstr "Заголовок Столбца 2"
+
+#: ../functions.php:369
+msgid "Default Header Column 3"
+msgstr "По умолчанию заголовок столбца 3"
+
+#: ../functions.php:371
+msgid "Header column 3"
+msgstr "Заголовок столбца 3"
+
+#: ../functions.php:379 ../functions.php:381
+msgid "Widget area before content"
+msgstr "Виджет зона перед содержимым"
+
+#: ../functions.php:389
+msgid "Default Sidebar"
+msgstr "По Умолчанию Боковая Панель"
+
+#: ../functions.php:391
+msgid "Sidebar"
+msgstr "Боковая Панель"
+
+#: ../functions.php:400 ../functions.php:402
+msgid "Widget area after content"
+msgstr "Виджет-зона после Контента"
+
+#: ../functions.php:410
+msgid "Default Secondary Column 1"
+msgstr "По Умолчанию Вторичный Столбец 1"
+
+#: ../functions.php:412 ../functions.php:422 ../functions.php:432
+#: ../functions.php:442
+msgid "Secondary Column"
+msgstr "Вторичный Столбец"
+
+#: ../functions.php:420
+msgid "Default Secondary Column 2"
+msgstr "По Умолчанию Вторичный Столбец 2"
+
+#: ../functions.php:430
+msgid "Default Secondary Column 3"
+msgstr "По Умолчанию Вторичный Столбец 3"
+
+#: ../functions.php:440
+msgid "Default Secondary Column 4"
+msgstr "По Умолчанию Вторичный Столбец 4"
+
+#: ../functions.php:458
+#, php-format
+msgid "%1$s Header Bar"
+msgstr "%1$s Заголовок "
+
+#: ../functions.php:470
+#, php-format
+msgid "%1$s Sidebar"
+msgstr "%1$s Боковая Панель"
+
+#: ../functions.php:496
+msgid "Pingback:"
+msgstr "Пингназад:"
+
+#: ../functions.php:496
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: ../functions.php:511
+msgid "Post author"
+msgstr "Автор Сообщения"
+
+#. translators: 1: date, 2: time
+#: ../functions.php:517
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s на %2$s"
+
+#: ../functions.php:523
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../functions.php:528 ../functions.php:568
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../functions.php:532
+msgid "Reply"
+msgstr "Ответ"
+
+#: ../functions.php:546
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" "
+"class=\"post-time\"><time class=\"entry-date updated\" datetime=\"%3$s\">"
+"%4$s</time></a><span class=\"by-author\"> by </span><span class=\"author "
+"vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">"
+"%7$s</a></span><span class=\"posted-in\"> in </span>%8$s "
+msgstr ""
+
+#: ../functions.php:552
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все статьи автора %s"
+
+#: ../functions.php:560 ../functions.php:588
+#, php-format
+msgid "%s Comments"
+msgstr "%s Комментарии"
+
+#: ../functions.php:562 ../functions.php:590
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../functions.php:564
+#, php-format
+msgid ""
+"<span class=\"with-comments\"> with </span><a href=\"%1$s\" class=\"post-"
+"comment\" title=\"%2$s\">%3$s</a>"
+msgstr ""
+
+#: ../functions.php:564 ../functions.php:592
+#, php-format
+msgid "Comment on %s"
+msgstr "Комментировать %s"
+
+#: ../functions.php:577
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" class=\"post-time\"><time class=\"entry-date"
+"\" datetime=\"%3$s\">%4$s</time></a><span class=\"sep category-sep\"></"
+"span><span class=\"post-category\">%5$s</span> "
+msgstr ""
+
+#: ../functions.php:592
+#, php-format
+msgid ""
+"<span class=\"sep comment-sep\"></span><a href=\"%1$s\" class=\"post-comment"
+"\" title=\"%2$s\">%3$s</a>"
+msgstr ""
+
+#: ../functions.php:640
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые посты"
+
+#: ../functions.php:641
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые посты <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../functions.php:696
+msgid "Related Posts"
+msgstr "Похожие сообщения"
+
+#: ../functions.php:1026
+msgid "Comment navigation"
+msgstr "Комментарий навигации"
+
+#: ../functions.php:1029
+msgid "Older Comments"
+msgstr "Старые Комментарии"
+
+#: ../functions.php:1033
+msgid "Newer Comments"
+msgstr "Новые Комментарии"
+
+#: ../functions.php:1077
+msgid "Y"
+msgstr ""
+
+#: ../functions.php:1079
+msgid "F Y"
+msgstr ""
+
+#: ../functions.php:1081
+msgid "F j, Y"
+msgstr ""
+
+#: ../functions.php:1084
+msgid "Asides"
+msgstr ""
+
+#: ../functions.php:1086
+msgid "Galleries"
+msgstr "Галереи"
+
+#: ../functions.php:1088
+msgid "Images"
+msgstr "Изображения"
+
+#: ../functions.php:1090
+msgid "Videos"
+msgstr "Видео"
+
+#: ../functions.php:1092
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: ../functions.php:1094
+msgid "Links"
+msgstr "Ссылки"
+
+#: ../functions.php:1096
+msgid "Statuses"
+msgstr "Статусы"
+
+#: ../functions.php:1098
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../functions.php:1100
+msgid "Chats"
+msgstr "Чат"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../functions.php:1107
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../functions.php:1109
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../header.php:89
+msgid "Menu"
+msgstr "Меню"
+
+#: ../page.php:16 ../plugin-buddypress.php:18 ../single.php:98
+#: ../templates/page-full.php:18 ../templates/page-sb-left.php:18
+#: ../templates/page-sb-right.php:18
+msgid "Pages:"
+msgstr "Страницы"
+
+#: ../sidebar.php:21
+msgid ""
+"<h4>Sidebar not configured yet.</h4><p>You can place widgets by navigating "
+"to WordPress Appearance > Widgets.</p>"
+msgstr ""
+"<h4>Боковая панель еще не настроена.</h4><p>Вы можете поместить виджеты, "
+"перейдя в WordPress Appearance > Widgets.</p>"
+
+#: ../sidebar.php:29
+msgid ""
+"<p>Sidebar not configured yet. You can place widgets by navigating to "
+"WordPress Appearance > Widgets.</p>"
+msgstr ""
+"<p>Боковая панель еще не настроена. Вы можете поместить виджеты, перейдя в "
+"WordPress Appearance > Widgets.</p>"
+
+#: ../single.php:101
+#, php-format
+msgid "<span class=\"tag-label\">Tagged</span> %1$s"
+msgstr ""
+
+#: ../single.php:110 ../formats/format-gallery.php:27
+#: ../formats/list-format-gallery.php:37
+msgid "Next"
+msgstr "Далее"
+
+#: ../single.php:111
+msgid "Next post:"
+msgstr "Следующий пост:"
+
+#: ../single.php:113
+msgid "Previous"
+msgstr "Предыдущие"
+
+#: ../single.php:114
+msgid "Previous post:"
+msgstr "Предыдущий пост:"
+
+#: ../single.php:133
+#, php-format
+msgid "About %s"
+msgstr "Около %s"
+
+#: ../single.php:137
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Просмотреть все сообщения от %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../formats/format-gallery.php:26 ../formats/list-format-gallery.php:36
+msgid "Prev"
+msgstr "Пред"
+
+#: ../formats/format-video.php:19
+msgid "<span class=\"no-video\">No video URL found.</span>"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:9
+msgid "Home"
+msgstr "Домой"
+
+#: ../includes/breadcrumbs.php:25
+#, php-format
+msgid "%1$s%2$s%3$s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:86
+#, php-format
+msgid "%1$sSearch results for <strong>%2$s</strong>%3$s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:89
+#, php-format
+msgid "%1$sPosts tagged <strong>%2$s</strong>%3$s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:94
+#, php-format
+msgid "%1$sArticles posted by <strong>%2$s</strong>%3$s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:97
+#, php-format
+msgid "%1$sError 404%2$s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:101
+msgid "Page"
+msgstr "Страница"
+
+#: ../includes/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Необходима установка дополнительных плагинов"
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+#: ../includes/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: ../includes/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с плагином API."
+
+#: ../includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в требуемые подключаемые модули Installer"
+
+#: ../includes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Вернутся в панель управления"
+
+#: ../includes/class-tgm-plugin-activation.php:399
+#: ../includes/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: ../includes/class-tgm-plugin-activation.php:400
+#: ../includes/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин был успешно активирован"
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не принимается. Плагин %1$s уже активно."
+
+#: ../includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Более новую версию %s требуется для этой темы. "
+"Пожалуйста, обновите плагин."
+
+#: ../includes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: ../includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+
+#: ../includes/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Требуется"
+
+#: ../includes/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: ../includes/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Репозитарии WordPress"
+
+#: ../includes/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Внешний Источник"
+
+#: ../includes/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Расфасованные"
+
+#: ../includes/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: ../includes/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Установленные но не активированы"
+
+#: ../includes/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Активный"
+
+#: ../includes/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Требуется обновление не доступно"
+
+#: ../includes/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: ../includes/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Обновление рекомендуется"
+
+#: ../includes/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "All <span class=\"count\">(%s)</span>"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr "Все <span class=\"count\">(%s)</span>"
+
+#: ../includes/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr "неизвестно"
+
+#: ../includes/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Установленная версия"
+
+#: ../includes/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: ../includes/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Доступные версии:"
+
+#: ../includes/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Нет плагинов не устанавливать, обновлять или активировать.<a href=\"%1$s"
+"\">Вернуться к панели управления</a>"
+
+#: ../includes/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Плагин"
+
+#: ../includes/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Источник"
+
+#: ../includes/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Тип"
+
+#: ../includes/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Версия"
+
+#: ../includes/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Статус"
+
+#: ../includes/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: ../includes/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#: ../includes/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: ../includes/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Установить "
+
+#: ../includes/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Обновление "
+
+#: ../includes/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Активировать "
+
+#: ../includes/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Нет плагинов не были выбраны для установки. Никаких действий не принимается."
+
+#: ../includes/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Никакие плагины были выбраны для обновления. Не предпринималось никаких "
+"действий."
+
+#: ../includes/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Никакие плагины доступны для установки на этот раз."
+
+#: ../includes/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Никакие плагины не доступны, чтобы быть обновлен в это время."
+
+#: ../includes/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Плагин не удалось выполнить активацию."
+
+#: ../includes/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Установка и активация процесс начинается. Этот процесс может занять "
+"некоторое время на некоторые хосты, поэтому, пожалуйста, будьте терпеливы."
+
+#: ../includes/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активаций были завершены."
+
+#: ../includes/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. Этот процесс может занять некоторое время на "
+"некоторые хосты, поэтому, пожалуйста, будьте терпеливы."
+
+#: ../includes/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: ../includes/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/page-builder-layouts.php:9
+msgid "Home 01"
+msgstr "Домой 01"
+
+#: ../includes/page-builder-layouts.php:185
+msgid "Home 02"
+msgstr "Домой 02"
+
+#: ../includes/page-builder-layouts.php:363
+msgid "Home 03"
+msgstr "Домой 03"
+
+#: ../includes/page-builder-layouts.php:602
+msgid "Home 04"
+msgstr "Домой 04"
+
+#: ../includes/page-builder-layouts.php:780
+msgid "Home 05"
+msgstr "Домой 05"
+
+#: ../includes/page-builder-layouts.php:958
+msgid "Home 06"
+msgstr "Домой 06"
+
+#: ../includes/page-builder-layouts.php:959
+#: ../includes/page-builder-layouts.php:1576
+#: ../includes/page-builder-layouts.php:1713
+#: ../includes/page-builder-layouts.php:2059
+#: ../includes/page-builder-layouts.php:2405
+msgid "Use full width page template"
+msgstr "Используйте всю ширину страницы шаблона"
+
+#: ../includes/page-builder-layouts.php:1179
+msgid "Home 07"
+msgstr "Домой 07"
+
+#: ../includes/page-builder-layouts.php:1575
+msgid "Home 08"
+msgstr "Домой 08"
+
+#: ../includes/page-builder-layouts.php:1712
+#, fuzzy
+msgid "Home 09"
+msgstr "Домой 01"
+
+#: ../includes/page-builder-layouts.php:2058
+#, fuzzy
+msgid "Home 10"
+msgstr "Домой 01"
+
+#: ../includes/page-builder-layouts.php:2404
+#, fuzzy
+msgid "Home 11"
+msgstr "Домой 01"
+
+#: ../includes/page-options.php:14 ../includes/post-options.php:14
+msgid "Sidebar Options"
+msgstr "Настройки Боковой Панели"
+
+#: ../includes/page-options.php:19 ../includes/post-options.php:19
+msgid "Available widget areas for Sidebar"
+msgstr "Доступные зоны виджет для боковой панели"
+
+#: ../includes/page-options.php:21 ../includes/post-options.php:21
+msgid "Select a widget area to use on Sidebar"
+msgstr "Выберите область виджета для использования на боковой панели"
+
+#: ../includes/page-options.php:26 ../includes/post-options.php:26
+msgid "Available widget areas for Header Section"
+msgstr "Доступен виджет области заголовка раздела"
+
+#: ../includes/page-options.php:28 ../includes/post-options.php:28
+msgid "Select a widget area to use on Header Section"
+msgstr "Выберите область виджета для использования в заголовке раздела"
+
+#: ../includes/page-options.php:33
+msgid "Create an exclusive sidebar for this page."
+msgstr "Создать эксклюзивную боковую панель для этой страницы."
+
+#: ../includes/page-options.php:35
+msgid "Check to create exclusive sidebar for this page."
+msgstr "Отметить, чтобы создать эксклюзивную боковую панель для этой страницы."
+
+#: ../includes/page-options.php:40
+msgid "Create an exclusive Header Widget Area for this page."
+msgstr "Создать эксклюзивный заголовка виджета зона для этой страницы."
+
+#: ../includes/page-options.php:42
+msgid ""
+"Check to create exclusive header widget area for this page. <br />On "
+"checking these options, a new Widget Area will be created in the name of "
+"this page. Once you publish or update the page, the new sidebar will appear "
+"inside dropdown menu. You can select that new sidebar and update the page "
+"again. You can remove the sidebar by unchecking these options."
+msgstr ""
+"Отметить, чтобы создать эксклюзивную область заголовка виджета для этой "
+"страницы. <br /> При проверке эти опции, новый виджет Area будет создан во "
+"имя этой страницы. После публикации или обновления страницы, новая боковая "
+"панель появится в раскрывающемся меню. Вы можете выбрать эту новую боковую "
+"панель и обновите страницу. Вы можете удалить боковую панель, отключив эти "
+"опции."
+
+#: ../includes/page-options.php:49
+msgid "Archive and Blog Options"
+msgstr "Архив и Блог опции"
+
+#: ../includes/page-options.php:54
+msgid "Category IDs to fetch Archive or Blog Posts"
+msgstr "Категория идентификаторы для извлечения архив или блога"
+
+#: ../includes/page-options.php:56
+msgid ""
+"Enter a numeric category ID, or IDs separated by commas, from which you wish "
+"to show posts. Use this option if you are using an Archive or Blog template. "
+"Example: 3,4,7,12"
+msgstr ""
+"Введите числовой ID категории, или идентификаторов, разделенных запятыми, из "
+"которых вы хотите показывать записи. Используйте эту опцию, если вы "
+"используете архив или шаблон блога. Пример: 3,4,7,12"
+
+#: ../includes/page-options.php:61
+msgid "Posts per page"
+msgstr "Сообщения на странице"
+
+#: ../includes/page-options.php:63
+msgid "The number of posts to show per page."
+msgstr "Количество сообщений для отображения на странице."
+
+#: ../includes/page-options.php:70
+msgid "Other Settings"
+msgstr "Другие настройки"
+
+#: ../includes/page-options.php:75
+msgid "Check to hide breadcrumbs on this page."
+msgstr "Отметить, чтобы скрыть хлебные крошки на этой странице."
+
+#: ../includes/page-options.php:81
+msgid "Check to hide secondary widget area on this page."
+msgstr "Отметить, чтобы скрыть вторичные виджет-зону на этой странице."
+
+#: ../includes/page-options.php:89
+msgid "Page Options"
+msgstr "Параметры Страницы"
+
+#: ../includes/post-options.php:35
+msgid "Post Format Options"
+msgstr "Сообщение Формат параметры"
+
+#: ../includes/post-options.php:40
+msgid "Video URL"
+msgstr "Видео URL"
+
+#: ../includes/post-options.php:42
+msgid "URL of video for Video Post Format. Example: http://vimeo.com/41369274"
+msgstr "URL видео для видео формата записи. Пример: http://vimeo.com/41369274"
+
+#: ../includes/post-options.php:49
+msgid "Single Post Options"
+msgstr "Одиночные сообщения параметры"
+
+#: ../includes/post-options.php:54
+msgid "Check to hide post meta on this post"
+msgstr "Отметить, чтобы скрыть пост мета на этот пост"
+
+#: ../includes/post-options.php:60
+msgid "Check to hide featured image on this post"
+msgstr "Отметить, чтобы скрыть изображение на этот пост"
+
+#: ../includes/post-options.php:66
+msgid ""
+"Check to show featured image on this post. Useful when featured image is "
+"hidden globally"
+msgstr ""
+"Отметить, чтобы показать изображения, размещенные на этом посту. Полезно, "
+"когда гостей предоставляется следующее изображение скрыто глобально"
+
+#: ../includes/post-options.php:72
+msgid "Check to hide secondary widget area on this post"
+msgstr "Отметить, чтобы скрыть вторичную зону виджета на этот пост"
+
+#: ../includes/post-options.php:78
+msgid "Check to hide related posts on this post"
+msgstr "Отметить, чтобы скрыть, соответствующие должности, на этот пост"
+
+#: ../includes/post-options.php:84
+msgid "Check to enable full width on this post"
+msgstr "Отметить, чтобы включить полную ширину на этот пост"
+
+#: ../includes/post-options.php:90
+msgid "Advertisement Settings for this post"
+msgstr "Реклама Настройки для этого поста"
+
+#: ../includes/post-options.php:95
+msgid "Custom markup before the post"
+msgstr "Пользовательские разметки перед постом"
+
+#: ../includes/post-options.php:98
+msgid ""
+"Enter an HTML markup or advertisement code that should appear above the "
+"post. (Short codes are supported)."
+msgstr ""
+"Введите HTML-разметки или рекламный код, который должен отображаться выше "
+"пост. (Короткие коды поддерживаются)."
+
+#: ../includes/post-options.php:103
+msgid "Custom markup after the post"
+msgstr "Пользовательские разметки после поста"
+
+#: ../includes/post-options.php:106
+msgid ""
+"Enter an HTML markup or advertisement code that should appear after the "
+"post, below related posts section. (Short codes are supported)."
+msgstr ""
+"Введите HTML-разметку или код рекламы, которая должна появиться после поста, "
+"ниже соответствующих должностей разделе. (Короткие коды поддерживаются)."
+
+#: ../includes/post-options.php:111
+msgid "Check to hide advertisement above this post."
+msgstr "Отметить, чтобы спрятать рекламу выше этого поста."
+
+#: ../includes/post-options.php:117
+msgid "Check to hide advertisement below this post."
+msgstr "Отметить, чтобы спрятать рекламу под этим постом."
+
+#: ../includes/post-options.php:125
+msgid "Post Options"
+msgstr "Пост Параметры"
+
+#: ../includes/theme-admin-options.php:17
+msgid "General"
+msgstr "Общие"
+
+#: ../includes/theme-admin-options.php:23
+msgid "Header"
+msgstr "Заголовок"
+
+#: ../includes/theme-admin-options.php:29
+msgid "Blog"
+msgstr "Блог"
+
+#: ../includes/theme-admin-options.php:35
+msgid "Contact"
+msgstr "Контакты"
+
+#: ../includes/theme-admin-options.php:41
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: ../includes/theme-admin-options.php:47
+msgid "Custom Font"
+msgstr "Пользовательский Шрифт"
+
+#: ../includes/theme-admin-options.php:53
+msgid "Image Sizes"
+msgstr "Размеры Изображений"
+
+#: ../includes/theme-admin-options.php:66
+msgid "General Settings for the theme"
+msgstr "Общие настройки для темы"
+
+#: ../includes/theme-admin-options.php:71
+msgid "Layout Style:"
+msgstr "Стиль Макета:"
+
+#: ../includes/theme-admin-options.php:72
+msgid "Select a layout style for the theme."
+msgstr "Выберите стиль макета для темы."
+
+#: ../includes/theme-admin-options.php:80
+msgid "Layout Width:"
+msgstr "Ширина Макета:"
+
+#: ../includes/theme-admin-options.php:81
+msgid "Enter a layout width in px (without unit). Min: 800, Max: 1600"
+msgstr "Введите ширину макета в пикселях (без блока). Мин: 800, Макс: 1600"
+
+#: ../includes/theme-admin-options.php:88
+msgid "Base font size:"
+msgstr "Базовый размер шрифта:"
+
+#: ../includes/theme-admin-options.php:89
+msgid "Enter a base font size in px (without unit). Min: 11, Max: 18"
+msgstr ""
+"Введите базовый размер шрифта в пикс (без блока). Минимум: 11, Макс: 18"
+
+#: ../includes/theme-admin-options.php:96
+msgid "Global Sidebar Placement"
+msgstr "Глобальный Сайдбар Размещения"
+
+#: ../includes/theme-admin-options.php:97
+msgid ""
+"Select a global sidebar placement for blog, archives, author, single, etc."
+msgstr ""
+"Выберите глобальный сайдбар для размещения блога, архивы, автора, единый и "
+"др."
+
+#: ../includes/theme-admin-options.php:105
+msgid "Custom head markup:"
+msgstr "Пользовательские head разметки:"
+
+#: ../includes/theme-admin-options.php:106
+msgid ""
+"Use this section for inserting any custom CSS or script inside head node of "
+"the site. For example, Google Analytics code, Google font CSS, or custom "
+"scripts."
+msgstr ""
+"Используйте этот раздел для вставки любых пользовательских CSS или сценария "
+"внутри головного узла сайта. Например, Google Analytics код, Google CSS "
+"шрифт, для пользовательских скриптов."
+
+#: ../includes/theme-admin-options.php:113
+msgid "Hide Breadcrumbs"
+msgstr "Скрыть хлебные крошки"
+
+#: ../includes/theme-admin-options.php:114
+msgid "Check to hide Breadcrumbs permanently."
+msgstr "Отметить, чтобы скрыть хлебные крошки постоянно."
+
+#: ../includes/theme-admin-options.php:121
+msgid "Disable responsive.css file"
+msgstr "Отключить файл responsive.css"
+
+#: ../includes/theme-admin-options.php:122
+msgid ""
+"Check to disable responsive.css file. Located as <code>newsplus/responsive."
+"css</code>"
+msgstr ""
+"Отметить, чтобы отключить responsive.css file. Located as <code>newsplus/"
+"responsive.css</code>"
+
+#: ../includes/theme-admin-options.php:129
+msgid "Disable responsive menu only"
+msgstr "Отключить только адаптивное меню"
+
+#: ../includes/theme-admin-options.php:130
+msgid ""
+"Check to disable only the responsive menu. This option is useful when using "
+"mega menu plugins which add their own responsive menu. In that case theme "
+"menu shall be disabled."
+msgstr ""
+"Отметить, чтобы отключить только адаптивное меню. Этот параметр полезен при "
+"использовании мега меню плагины, которые добавляют свои собственные "
+"адаптивное меню. В таком случае тема меню должен быть отключен."
+
+#: ../includes/theme-admin-options.php:137
+msgid "Disable user.css file"
+msgstr "Отключить user.css file"
+
+#: ../includes/theme-admin-options.php:138
+msgid ""
+"Check to disable user.css file. Located as <code>newsplus/user.css</code> "
+"This file can be used to add your custom styles without modifying actual "
+"style.css file."
+msgstr ""
+"Отметить, чтобы отключить user.css file. Located as <code>newsplus/user.css</"
+"code> этот файл может использоваться для добавления пользовательских стилей, "
+"не меняя фактического стиль.CSS-файл."
+
+#: ../includes/theme-admin-options.php:145
+msgid "Enable rtl.css file"
+msgstr "Отключить rtl.css file"
+
+#: ../includes/theme-admin-options.php:146
+msgid ""
+"Check to enable rtl.css file. Located as <code>newsplus/rtl.css</code> If "
+"using RTL installation of WordPress, this file is automatically loaded. You "
+"can also load it forcefully by enabling this option."
+msgstr ""
+"Отметить, чтобы отключить пользователя.CSS-файл. Расположенном как "
+"<code>newsplus/rtl.css</code> При использовании установки RTL в WordPress, "
+"этот файл будет автоматически загружен. Вы также можете загрузить его "
+"принудительно включив эту опцию."
+
+#: ../includes/theme-admin-options.php:153
+msgid "Hide Secondary Widget Area"
+msgstr "Скрыть Вторичные Виджет-Зоныу"
+
+#: ../includes/theme-admin-options.php:154
+msgid ""
+"Check to hide secondary widget area on archives, category, search, author "
+"etc. You can control individual setting for Pages and Posts inside their "
+"options panel."
+msgstr ""
+"Проверьте, чтобы скрыть вторичные виджет-зону на архивы, категории, поиск, "
+"автор и т. д. Вы можете контролировать отдельные настройки для страниц и "
+"постов внутри панели настроек."
+
+#: ../includes/theme-admin-options.php:161
+msgid "Disable PrettyPhoto"
+msgstr "Отключить Prettyphoto"
+
+#: ../includes/theme-admin-options.php:162
+msgid "Check to disable PrettyPhoto on this theme."
+msgstr "Отметить, чтобы отключить PrettyPhoto на эту тему."
+
+#: ../includes/theme-admin-options.php:176
+#, fuzzy
+msgid "News Ticker Settings"
+msgstr "Другие настройки"
+
+#: ../includes/theme-admin-options.php:181
+#, fuzzy
+msgid "News Ticker Placement"
+msgstr "Глобальный Сайдбар Размещения"
+
+#: ../includes/theme-admin-options.php:182
+msgid ""
+"Choose where to display news ticker automatically. (You can use the "
+"[newsplus_news_ticker] shortcode on individual pages as well)."
+msgstr ""
+
+#: ../includes/theme-admin-options.php:190
+msgid "Category IDs for news ticker"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:191
+msgid ""
+"Provide numeric category IDs, separated by comma, from which posts shall be "
+"displayed in news ticker. E.g. 3,15,24"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:198
+msgid "Number of posts in ticker"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:199
+#, fuzzy
+msgid "Enter number of posts to be shown in ticker. E.g. 5"
+msgstr "Количество сообщений для отображения на странице."
+
+#: ../includes/theme-admin-options.php:206
+#, fuzzy
+msgid "News Ticker Label"
+msgstr "Глобальный Сайдбар Размещения"
+
+#: ../includes/theme-admin-options.php:207
+msgid "Provide a ticker label text. Default is \"Breaking News\"."
+msgstr ""
+
+#: ../includes/theme-admin-options.php:214
+msgid "Show news ticker only on Home page"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:215
+msgid "Check to show news ticker only on Home page."
+msgstr ""
+
+#: ../includes/theme-admin-options.php:222
+msgid "Top Utility Bar Settings"
+msgstr "Лучшие настройки Bar Utility"
+
+#: ../includes/theme-admin-options.php:227
+msgid "Top Left callout section"
+msgstr "Вверху слева выноска разделе"
+
+#: ../includes/theme-admin-options.php:228
+msgid ""
+"Choose what to display inside top-left callout section. Optional menu, or "
+"custom text."
+msgstr ""
+"Выберите данные для отображения внутри верхнего левого выноски разделе. "
+"Опционное меню или пользовательский текст."
+
+#: ../includes/theme-admin-options.php:236
+msgid "Top left Callout Text:"
+msgstr "Вверху слева Выноска текст:"
+
+#: ../includes/theme-admin-options.php:237
+msgid "Enter custom text that should appear on left side of top utility bar."
+msgstr ""
+"Введите произвольный текст, который должен появиться на левой стороне "
+"верхней утилита бар."
+
+#: ../includes/theme-admin-options.php:244
+msgid "Top Right callout section"
+msgstr "Вверху справа обозначение раздела"
+
+#: ../includes/theme-admin-options.php:245
+msgid ""
+"Choose what to display inside top-right callout section. Searchform, custom "
+"text, or shopping cart."
+msgstr ""
+"Выберите то, что для отображения в верхней правой секции выноски. Форма "
+"поиска, произвольный текст, или корзина."
+
+#: ../includes/theme-admin-options.php:253
+msgid "Top Right Callout Text:"
+msgstr "Вверху Справа Текст Выноски:"
+
+#: ../includes/theme-admin-options.php:254
+msgid "Enter custom text that should appear on right side of top utility bar."
+msgstr ""
+"Введите произвольный текст, который должен отображаться на правой стороне "
+"верхней утилита бар"
+
+#: ../includes/theme-admin-options.php:261
+msgid "Enable sticky top utility bar"
+msgstr "Включить липкий топ-утилита бар"
+
+#: ../includes/theme-admin-options.php:262
+msgid "Check to make top utility bar sticky"
+msgstr "Отметить, чтобы сделать топ-утилита бар липкий"
+
+#: ../includes/theme-admin-options.php:269
+msgid "Enable sticky main navigation bar"
+msgstr "Включить липкую главную панель навигации"
+
+#: ../includes/theme-admin-options.php:270
+msgid "Check to make main navigation bar sticky"
+msgstr "Отметить, чтобы сделать главной панели навигации липкий"
+
+#: ../includes/theme-admin-options.php:277
+msgid "Disable Sticky Navbars on mobile"
+msgstr "Отключить липкий Navbars на мобильный"
+
+#: ../includes/theme-admin-options.php:278
+msgid "Check to disable sticky navbars on mobile."
+msgstr "Отметить чтобы отключить липкий Navbars на мобильный"
+
+#: ../includes/theme-admin-options.php:285
+msgid "Disable top utility bar"
+msgstr "Отключить верхнюю панель утилиты"
+
+#: ../includes/theme-admin-options.php:286
+msgid "Check to disable top utility bar."
+msgstr "Отметить что бы отключить верхнюю панель утилиты"
+
+#: ../includes/theme-admin-options.php:293
+msgid "Site Name/Logo Settings"
+msgstr "Название Сайта/Логотип Настройки"
+
+#: ../includes/theme-admin-options.php:298
+msgid "Display Logo Image:"
+msgstr "Дисплей Изображения Логотипа:"
+
+#: ../includes/theme-admin-options.php:299
+msgid "Check to display logo image instead of site name and description"
+msgstr ""
+"Отметить чтобы отобразить изображение логотипа вместо названия сайта и "
+"описание"
+
+#: ../includes/theme-admin-options.php:306
+msgid "Custom Logo URL:"
+msgstr "Ссылка на изображение вашего логотипа:"
+
+#: ../includes/theme-admin-options.php:307
+msgid ""
+"Enter full URL of your Logo image. You can upload logo to media library or "
+"theme images folder and paste file URL here."
+msgstr ""
+"Введите полный URL вашего изображения логотипа. Вы можете загрузить логотип "
+"библиотеки мультимедиа или изображения темы папку и вставьте файл URL-адрес "
+"здесь."
+
+#: ../includes/theme-admin-options.php:314
+msgid "Custom Site Title"
+msgstr "Пользовательский заголовок сайта"
+
+#: ../includes/theme-admin-options.php:315
+msgid ""
+"Enter custom site title other than your default site title. This is used to "
+"allow HTML in site title. This title will be shown when not using logo image."
+msgstr ""
+"Введите пользовательский заголовок сайта, кроме вашего название сайта по "
+"умолчанию. Это используется, чтобы позволить HTML в названии сайта. Это "
+"название будет отображаться, если не используется изображение логотипа."
+
+#: ../includes/theme-admin-options.php:322
+msgid "Header Area Settings"
+msgstr "Настройки Область заголовка"
+
+#: ../includes/theme-admin-options.php:327
+msgid "Header Style"
+msgstr "Стиль Заголовка"
+
+#: ../includes/theme-admin-options.php:328
+msgid "Select a header style for the site."
+msgstr "Выберите стиль заголовка для сайта."
+
+#: ../includes/theme-admin-options.php:336
+msgid "Logo Placement"
+msgstr "Размещение Логотипа"
+
+#: ../includes/theme-admin-options.php:337
+msgid ""
+"Select a logo placement header area. If chosen none, logo will be replaced "
+"by widget area."
+msgstr ""
+"Выберите размещение логотипа областью заголовка. Если выбрано none (нет), "
+"логотип будет заменен на виджет-зону."
+
+#: ../includes/theme-admin-options.php:345
+msgid "Menu alignment"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:346
+msgid "Select a menu alignment"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:354
+msgid "Favicon Settings"
+msgstr "Фавикон Настройки"
+
+#: ../includes/theme-admin-options.php:359
+msgid "Favicon URL:"
+msgstr "Фавикон URL:"
+
+#: ../includes/theme-admin-options.php:360
+msgid ""
+"Enter full URL of favicon.ico file. You can upload favicon.ico to media "
+"library or theme images folder and paste file URL here."
+msgstr ""
+"Введите полный URL сайта (favicon).файл ICO. Вы можете загрузить фавикон.мбо "
+"библиотеки мультимедиа или изображения темы папку и вставьте файл URL-адрес "
+"здесь."
+
+#: ../includes/theme-admin-options.php:367
+msgid "Apple touch icon URL:"
+msgstr "Apple нажмите иконку URL-адрес:"
+
+#: ../includes/theme-admin-options.php:368
+msgid ""
+"Enter full URL of apple touch icon png file. You can upload the file to "
+"media library or theme images folder and paste file URL here. Recommended "
+"size is 152x152 px."
+msgstr ""
+"Введите URL apple нажмите на значок файла в формате PNG. Вы можете загрузить "
+"файл в медиа-библиотеке или тематические изображения папки и URL файла пасты "
+"здесь. Рекомендуемый размер 152x152 пикселей."
+
+#: ../includes/theme-admin-options.php:382
+msgid "Archive Settings"
+msgstr "Архив Настройки"
+
+#: ../includes/theme-admin-options.php:387
+msgid "Global Archives Template"
+msgstr "Глобальный архив шаблона"
+
+#: ../includes/theme-admin-options.php:388
+msgid "Select a template for default blog and archives."
+msgstr "Выберите шаблон для блога по умолчанию и архивов."
+
+#: ../includes/theme-admin-options.php:396
+msgid "Hide Post Meta"
+msgstr "Скрыть Пост Мета"
+
+#: ../includes/theme-admin-options.php:397
+msgid "Check to hide post meta information on blog archives and single post."
+msgstr ""
+"Отметить, чтобы скрыть пост Мета информацию на архивы блога и один пост."
+
+#: ../includes/theme-admin-options.php:404
+msgid "Disable auto insertion of images in Blog - full style"
+msgstr "Отключить автоматические вставки изображений в блог - полный стиль"
+
+#: ../includes/theme-admin-options.php:405
+msgid ""
+"Check to disable auto insertion of featured image and videos in Blog - full "
+"style template."
+msgstr ""
+"Отметьте, чтобы отключить автоматическую вставку популярные изображения и "
+"видео в блог - полный стиль шаблона."
+
+#: ../includes/theme-admin-options.php:412
+msgid "Disable video embed in post archives"
+msgstr "Отключить видео вставлять в пост архивы"
+
+#: ../includes/theme-admin-options.php:413
+msgid ""
+"Check to disable video embed in post archives. If checked, a featured image "
+"with video icon will be shown."
+msgstr ""
+"Отметьте, чтобы отключить видео встраивании в почтовых архивах. Если этот "
+"флажок установлен, признакам изображение со значком видео будет показано"
+
+#: ../includes/theme-admin-options.php:420
+msgid "Use word length in archive excerpts"
+msgstr "Использовать слово Длина в архиве отрывки"
+
+#: ../includes/theme-admin-options.php:421
+msgid ""
+"Check to enable word length in archive excerpts. By default character length "
+"is used which may not work well in Chinese characters. So use word length "
+"for Chinese language."
+msgstr ""
+"Отметьте, чтобы включить длину слова в архивных выписок. По длине символов "
+"по умолчанию используется, который не может хорошо работать в китайских "
+"иероглифов. Так что используйте длину слова для китайского языка."
+
+#: ../includes/theme-admin-options.php:428
+msgid "Word length for archive excerpts"
+msgstr "Длина слова для архивных выписок"
+
+#: ../includes/theme-admin-options.php:429
+msgid "Enter a word length for archive excerpts."
+msgstr "Введите длину слова для архива выдержки."
+
+#: ../includes/theme-admin-options.php:436
+msgid "Single Post Settings"
+msgstr "Один Пост Параметры"
+
+#: ../includes/theme-admin-options.php:441
+msgid "Show Author Bio:"
+msgstr "Об Авторе:"
+
+#: ../includes/theme-admin-options.php:442
+msgid "Check to display Author bio on single posts."
+msgstr "Отметьте, чтобы увидеть автора био на отдельных постах."
+
+#: ../includes/theme-admin-options.php:449
+msgid "Show related posts:"
+msgstr "Показать похожие записи:"
+
+#: ../includes/theme-admin-options.php:450
+msgid "Check to display related posts on single posts."
+msgstr "Отметьте, чтобы отобразить связанные сообщения на отдельных постах."
+
+#: ../includes/theme-admin-options.php:457
+msgid "Related posts taxonomy:"
+msgstr "Похожие сообщения систематике:"
+
+#: ../includes/theme-admin-options.php:458
+msgid "Select a taxonomy for related posts."
+msgstr "Выберите таксономию для сообщений"
+
+#: ../includes/theme-admin-options.php:466
+msgid "Related posts display style:"
+msgstr "Похожие сообщения стиль отображения:"
+
+#: ../includes/theme-admin-options.php:467
+msgid "Select a display style for related posts."
+msgstr "Выберите стиль отображения для сообщений"
+
+#: ../includes/theme-admin-options.php:475
+msgid "Number of related posts to show:"
+msgstr "Количество связанных постов, чтобы показать:"
+
+#: ../includes/theme-admin-options.php:476
+msgid "Enter a number for posts to show."
+msgstr "Введите число постов, чтобы показать."
+
+#: ../includes/theme-admin-options.php:483
+msgid "Hide featured Image"
+msgstr "Скрыть Избранные изображения"
+
+#: ../includes/theme-admin-options.php:484
+msgid "Check to disable automatic display of featured image on Single Posts."
+msgstr ""
+"Отметьте, чтобы отключить автоматическое отображение признакам изображения "
+"на отдельных постах."
+
+#: ../includes/theme-admin-options.php:491
+msgid "Hide Tag List"
+msgstr "Скрыть Список Тэгов"
+
+#: ../includes/theme-admin-options.php:492
+msgid "Check to hide tag list on Single Posts."
+msgstr "Отметьте, чтобы скрыть список тегов на холостых сообщений."
+
+#: ../includes/theme-admin-options.php:499
+msgid "Social Sharing Button Settings"
+msgstr "Настройка кнопок социального обмена"
+
+#: ../includes/theme-admin-options.php:504
+msgid "Show Social Sharing Buttons:"
+msgstr "Показать кнопки соцсетей:"
+
+#: ../includes/theme-admin-options.php:505
+msgid "Check to display social sharing on single posts."
+msgstr "Отметьте, чтобы отобразить социального обмена на отдельных постах."
+
+#: ../includes/theme-admin-options.php:512
+msgid "Social Sharing Heading"
+msgstr "Соцсети"
+
+#: ../includes/theme-admin-options.php:513
+msgid "Enter a heading for sharing buttons. Example, Share this post."
+msgstr ""
+"Введите заголовок для кнопок обмена. Пример, Поделиться этим сообщением."
+
+#: ../includes/theme-admin-options.php:520
+msgid "Facebook:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:521
+msgid "Check to display Facebook Like button."
+msgstr "Отметьте, чтобы отобразить кнопку Facebook Like."
+
+#: ../includes/theme-admin-options.php:528
+msgid "Twitter:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:529
+msgid "Check to display Twitter button."
+msgstr "Отметьте, чтобы отобразить кнопку Twitter."
+
+#: ../includes/theme-admin-options.php:536
+msgid "Twitter Username (optional)"
+msgstr "Twitter Имя пользователя (опционально)"
+
+#: ../includes/theme-admin-options.php:537
+msgid "Write your twitter username without @"
+msgstr "Написать свой твиттер имя пользователя без @"
+
+#: ../includes/theme-admin-options.php:544
+msgid "Google Plus:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:545
+msgid "Check to display Google Plus button."
+msgstr "Отметьте, чтобы отобразить кнопку Google Plus."
+
+#: ../includes/theme-admin-options.php:552
+msgid "Pinterest:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:553
+msgid "Check to display Pinterest button."
+msgstr "Отметьте, чтобы отобразить кнопку Pinterest."
+
+#: ../includes/theme-admin-options.php:560
+msgid "LinkedIn:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:561
+msgid "Check to display LinkedIn button."
+msgstr "Отметьте, чтобы отобразить кнопку LinkedIn."
+
+#: ../includes/theme-admin-options.php:568
+msgid "VK:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:569
+msgid "Check to display VK button."
+msgstr "Отметьте, чтобы отобразить кнопку VK."
+
+#: ../includes/theme-admin-options.php:576
+msgid "Yandex:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:577
+msgid "Check to display Yandex button."
+msgstr "Отметьте, чтобы отобразить кнопку Яндекса."
+
+#: ../includes/theme-admin-options.php:584
+msgid "Reddit:"
+msgstr ""
+
+#: ../includes/theme-admin-options.php:585
+msgid "Check to display Reddit button."
+msgstr "Отметьте, чтобы отобразить кнопку Reddit."
+
+#: ../includes/theme-admin-options.php:592
+msgid "Global Single Post Advertisements"
+msgstr "Глобал Один Пост, Реклама"
+
+#: ../includes/theme-admin-options.php:597
+msgid "Advertisement above the post"
+msgstr "Реклама выше пост"
+
+#: ../includes/theme-admin-options.php:598
+msgid ""
+"Enter custom HTML or advertisement code that should appear above the post. "
+"Short codes are supported. The markup used here will apply to all posts "
+"globally.<br/>You can override or hide this ad on individual posts."
+msgstr ""
+"Введите пользовательский HTML или код рекламы, который должен появиться выше "
+"пост. Короткие коды поддерживаются. Разметки, используемый здесь, будет "
+"применяться ко всем сообщениям по всему миру. <br/> Вы можете изменить или "
+"скрыть это объявление на отдельные сообщения."
+
+#: ../includes/theme-admin-options.php:605
+msgid "Advertisement below the post"
+msgstr "Реклама ниже поста"
+
+#: ../includes/theme-admin-options.php:606
+msgid ""
+"Enter custom HTML or advertisement code that should appear below the post. "
+"Short codes are supported. The markup used here will apply to all posts "
+"globally.<br/>You can override or hide this ad on individual posts."
+msgstr ""
+"Введите пользовательский HTML или код рекламы, который должен появиться ниже "
+"пост. Короткие коды поддерживаются. Разметки, используемый здесь, будет "
+"применяться ко всем сообщениям по всему миру. <br/> Вы можете изменить или "
+"скрыть это объявление на отдельные сообщения."
+
+#: ../includes/theme-admin-options.php:620
+msgid "Contact page template settings"
+msgstr "Контакт настройки шаблона страницы"
+
+#: ../includes/theme-admin-options.php:625
+msgid "Contact e-mail"
+msgstr "Контактный адрес электронной почты"
+
+#: ../includes/theme-admin-options.php:626
+msgid ""
+"Enter an e-mail address to which mail should be received from contact page. "
+"If left blank, your blog admin email is used."
+msgstr ""
+"Введите адрес электронной почты, к которому почта должна быть получена от "
+"контактной странице. Если оставить поле пустым, используется ваш блог "
+"администратора электронной почты."
+
+#: ../includes/theme-admin-options.php:633
+msgid "Contact Page custom Markup<br/>(Can be used for Google Maps)"
+msgstr ""
+"Как связаться с пользовательской странице Markup <br/> (Может быть "
+"использовано для Google Maps)"
+
+#: ../includes/theme-admin-options.php:634
+msgid ""
+"Visit maps.google.com and copy your map location iFrame code. Paste it here. "
+"This will be shown on contact page template.<br/>Tip: You can also use any "
+"custom markup or HTML here instead of Google Maps."
+msgstr ""
+"Посетите maps.google.com и скопировать код карты расположения IFrame. "
+"Вставьте его здесь. Это будет показано на шаблоне контакта страницы <br/> "
+"Подсказка:. Вы также можете использовать любые пользовательские разметки "
+"HTML или здесь вместо Google Maps."
+
+#: ../includes/theme-admin-options.php:641
+msgid "Mail Sent Message:"
+msgstr "Почта Сообщение Отправлено:"
+
+#: ../includes/theme-admin-options.php:642
+msgid ""
+"Enter a message that should be displayed when the mail is successfully sent."
+msgstr ""
+"Введите сообщение, которое должно отображаться, когда почта успешно "
+"отправлена."
+
+#: ../includes/theme-admin-options.php:644
+msgid "<h4>Thank You! Your message has been sent.</h4>"
+msgstr "<h4>Спасибо! Ваше сообщение отправлено.</h4>"
+
+#: ../includes/theme-admin-options.php:656
+msgid "Footer settings"
+msgstr "Нижний колонтитул настройки"
+
+#: ../includes/theme-admin-options.php:661
+msgid "Custom Footer Text (Left):"
+msgstr "Пользовательский Текст Нижнего Колонтитула (Слева):"
+
+#: ../includes/theme-admin-options.php:662
+msgid ""
+"Enter custom text for left side of the footer. You can use <code>HTML</code> "
+"here."
+msgstr ""
+"Введите произвольный текст для левой части нижнего колонтитула. Вы можете "
+"использовать <code>HTML</code> here."
+
+#: ../includes/theme-admin-options.php:669
+msgid "Custom Footer Text (Right):"
+msgstr "Пользовательский текст колонтитула (справа):"
+
+#: ../includes/theme-admin-options.php:670
+msgid ""
+"Enter custom text for right side of the footer. You can use <code>HTML</"
+"code> here."
+msgstr ""
+"Введите произвольный текст для правой части нижнего колонтитула. Вы можете "
+"использовать <code>HTML</code> here."
+
+#: ../includes/theme-admin-options.php:684
+msgid "Custom Font Settings"
+msgstr "Пользовательские настройки шрифта"
+
+#: ../includes/theme-admin-options.php:689
+msgid "Disable custom Google font:"
+msgstr "Отключение пользовательских шрифтов Google:"
+
+#: ../includes/theme-admin-options.php:690
+msgid "Check to disable custom Google fonts for this theme."
+msgstr "Проверить отключение пользовательских шрифтов Google для этой темы."
+
+#: ../includes/theme-admin-options.php:697
+msgid "Font family:"
+msgstr "Семейство шрифтов:"
+
+#: ../includes/theme-admin-options.php:698
+#, fuzzy
+msgid ""
+"Enter font family query as generated on the google.com/webfonts/ page. After "
+"changing the family name, it will be required to assign this font-family to "
+"appropriate selectors inside style.css or user.css file. For example: <br/> "
+"<pre>body.custom-font-enabled {<br/>  font-family: \"Roboto\";<br/>}</pre>"
+msgstr ""
+"Введите запрос сгенерированный шрифт как на google.com/webfonts/ page. После "
+"смены фамилии, то он будет обязан назначить этого семейства шрифтов "
+"соответствующим селекторов внутри style.css or user.css file. For example: "
+"<br/> <pre>body.custom-font-enabled {<br/>  font-family: \"Open Sans\";<br/>}"
+"</pre>"
+
+#: ../includes/theme-admin-options.php:705
+msgid "Subsets:"
+msgstr "Подгруппы:"
+
+#: ../includes/theme-admin-options.php:706
+msgid ""
+"If using other language, enter subset query for the font. For example: "
+"<code>cyrillic,cyrillic-ext</code>"
+msgstr ""
+"Если вы используете другой язык, введите запрос подмножество шрифта. "
+"Например: <code>cyrillic,cyrillic-ext</code>"
+
+#: ../includes/theme-admin-options.php:721
+msgid ""
+"Use this section for specifying custom image sizes for archives. You can set "
+"width, height and crop mode. For auto height, use 9999 in height and uncheck "
+"the hard crop mode."
+msgstr ""
+"Используйте этот раздел для задания пользовательских размеров изображения "
+"для архивов. Вы можете установить ширину, высоту и обрезать режиме. Для "
+"автоматического подбора высоты, использовать 9999 в высоту и снимите жесткий "
+"урожая режиме."
+
+#: ../includes/theme-admin-options.php:726
+msgid "Grid style blog images"
+msgstr "Сетка стиль изображения блога"
+
+#: ../includes/theme-admin-options.php:731
+#: ../includes/theme-admin-options.php:761
+#: ../includes/theme-admin-options.php:791
+#: ../includes/theme-admin-options.php:820
+#: ../includes/theme-admin-options.php:849
+#: ../includes/theme-admin-options.php:878
+#: ../includes/theme-admin-options.php:907
+msgid "Width"
+msgstr "Ширина"
+
+#: ../includes/theme-admin-options.php:732
+msgid "Enter a width for one columnar grid images."
+msgstr "Введите ширину сетки изображений в одну колонку."
+
+#: ../includes/theme-admin-options.php:739
+#: ../includes/theme-admin-options.php:769
+#: ../includes/theme-admin-options.php:799
+#: ../includes/theme-admin-options.php:828
+#: ../includes/theme-admin-options.php:857
+#: ../includes/theme-admin-options.php:886
+#: ../includes/theme-admin-options.php:915
+msgid "Height"
+msgstr "Высота"
+
+#: ../includes/theme-admin-options.php:740
+msgid "Enter a height for one columnar grid images."
+msgstr "Введите высоту сетки изображений одного столбца."
+
+#: ../includes/theme-admin-options.php:747
+#: ../includes/theme-admin-options.php:778
+#: ../includes/theme-admin-options.php:807
+#: ../includes/theme-admin-options.php:836
+#: ../includes/theme-admin-options.php:865
+#: ../includes/theme-admin-options.php:894
+#: ../includes/theme-admin-options.php:923
+msgid "Hard Crop"
+msgstr "Жесткий Crop"
+
+#: ../includes/theme-admin-options.php:748
+#: ../includes/theme-admin-options.php:779
+#: ../includes/theme-admin-options.php:808
+#: ../includes/theme-admin-options.php:837
+#: ../includes/theme-admin-options.php:866
+#: ../includes/theme-admin-options.php:895
+#: ../includes/theme-admin-options.php:924
+msgid "Check to enable hard cropping mode."
+msgstr "Отметьте, чтобы включить режим жесткого кадрирования."
+
+#: ../includes/theme-admin-options.php:756
+msgid "Classic style blog images"
+msgstr "Классический стиль изображения блога"
+
+#: ../includes/theme-admin-options.php:762
+#: ../includes/theme-admin-options.php:792
+msgid "Enter a width for list style big images."
+msgstr "Введите ширину для списка стилей больших изображений."
+
+#: ../includes/theme-admin-options.php:770
+#: ../includes/theme-admin-options.php:800
+msgid "Enter a height for list style big images."
+msgstr "Введите высоту списка стилей больших изображений."
+
+#: ../includes/theme-admin-options.php:786
+msgid "List style blog images"
+msgstr "Изображения блога Список стилей"
+
+#: ../includes/theme-admin-options.php:815
+msgid "Recent/Popular Post widget"
+msgstr "Новые / Популярные сообщения виджет"
+
+#: ../includes/theme-admin-options.php:821
+msgid "Enter a width for small post list images."
+msgstr "Укажите ширину небольшой пост список изображений."
+
+#: ../includes/theme-admin-options.php:829
+msgid "Enter a height for small post list images."
+msgstr "Введите высоту для небольшой пост список изображений."
+
+#: ../includes/theme-admin-options.php:844
+msgid "Related Posts Images"
+msgstr "Похожие сообщения Изображения"
+
+#: ../includes/theme-admin-options.php:850
+msgid "Enter a width for related posts images on Single post."
+msgstr "Введите высоту для связанных поств изображений на одном сообщении."
+
+#: ../includes/theme-admin-options.php:858
+msgid "Enter a height for related posts images on Single post."
+msgstr "Введите высоту связанных постов изображений на один пост."
+
+#: ../includes/theme-admin-options.php:873
+msgid "Minifolio Widget Images"
+msgstr "Minifolio Виджет Изображений"
+
+#: ../includes/theme-admin-options.php:879
+msgid "Enter a width for minifolio widget images."
+msgstr "Укажите ширину виджета minifolio изображений."
+
+#: ../includes/theme-admin-options.php:887
+msgid "Enter a height for minifolio widget images."
+msgstr "Введите высоту для minifolio виджет изображений."
+
+#: ../includes/theme-admin-options.php:902
+msgid "Single Post Image"
+msgstr "Один Пост Изображение"
+
+#: ../includes/theme-admin-options.php:908
+msgid "Enter a width for single post featured image."
+msgstr "Укажите ширину одного поста признакам изображения."
+
+#: ../includes/theme-admin-options.php:916
+msgid "Enter a height for single post featured image."
+msgstr "Введите высоту для одного поста признакам изображения."
+
+#: ../includes/theme-admin-options.php:959
+#: ../includes/theme-admin-options.php:984
+msgid "Theme Options"
+msgstr "Опции Темы"
+
+#: ../includes/theme-admin-options.php:974
+msgid "Theme settings saved."
+msgstr "Настройки темы сохраняются."
+
+#: ../includes/theme-admin-options.php:979
+msgid "Theme settings reset."
+msgstr "Сброс настроек Темы"
+
+#: ../includes/theme-admin-options.php:1085
+msgid "Save Settings"
+msgstr "Сохранить Настройки"
+
+#: ../includes/theme-admin-options.php:1091
+msgid "Reset all Settings"
+msgstr "Сброс всех настроек"
+
+#: ../includes/theme-customizer.php:11
+msgid "Nav Background Color"
+msgstr "Nav Цвет Фона"
+
+#: ../includes/theme-customizer.php:17
+msgid "Nav Link Color"
+msgstr "Nav Цвет Ссылок"
+
+#: ../includes/theme-customizer.php:23
+msgid "Nav Link Hover Color"
+msgstr "Nav Ссылка Наведении Цвет"
+
+#: ../includes/theme-customizer.php:29
+msgid "Nav Current Link Border Color"
+msgstr ""
+
+#: ../includes/theme-customizer.php:35
+msgid "SubMenu Background Color"
+msgstr "Подменю Цвет Фона"
+
+#: ../includes/theme-customizer.php:41
+msgid "SubMenu Link Color"
+msgstr "Подменю Цвет Ссылки"
+
+#: ../includes/theme-customizer.php:47
+msgid "SubMenu Link Hover Color"
+msgstr "Подменю При Наведении Цвет Ссылки"
+
+#: ../includes/theme-customizer.php:53
+msgid "SubMenu Link Hover BG Color"
+msgstr "Ссылка подменю при наведении Цвет фона"
+
+#: ../includes/theme-customizer.php:59
+msgid "Sidebar Headings Color"
+msgstr "Заголовки Боковой Панели Цвета"
+
+#: ../includes/theme-customizer.php:65
+msgid "Secondary Area BG Color"
+msgstr "Вторичная зона BG Цвет"
+
+#: ../includes/theme-customizer.php:71
+msgid "Secondary Area Headings Color"
+msgstr "Вторичная Зона Заголовок Цвет "
+
+#: ../includes/theme-customizer.php:77
+msgid "Secondary Area Text Color"
+msgstr "Вторичная Зона Цвет Текста"
+
+#: ../includes/theme-customizer.php:83
+msgid "Secondary Area Link Color"
+msgstr "Вторичная Зона Цвет Ссылки"
+
+#: ../includes/theme-customizer.php:89
+msgid "Secondary Area Link Hover Color"
+msgstr "Вторичная Зона Ссылка Наведении Цвет"
+
+#: ../includes/theme-customizer.php:95
+msgid "Secondary Widget Border Color"
+msgstr "Вторичный Цвет Границы Виджета"
+
+#: ../includes/theme-customizer.php:101
+msgid "Footer BG Color"
+msgstr "Футер BG Цвет"
+
+#: ../includes/theme-customizer.php:107
+msgid "Footer Text Color"
+msgstr "Футер Цвет Текста"
+
+#: ../includes/theme-customizer.php:113
+msgid "Footer Link Color"
+msgstr "В Футере Цвет"
+
+#: ../includes/theme-customizer.php:119
+msgid "Footer Link Hover Color"
+msgstr "В Футере При Наведении Цвет"
+
+#: ../templates/page-contact.php:13
+msgid "Enter Your Name"
+msgstr "Введите Ваше Имя"
+
+#: ../templates/page-contact.php:22
+msgid "An email is required"
+msgstr "Необходимо указать адрес электронной почты"
+
+#: ../templates/page-contact.php:25
+msgid "Enter a valid email"
+msgstr "Введите действительный адрес электронной почты"
+
+#: ../templates/page-contact.php:33
+msgid "No URL provided"
+msgstr "URL не предусмотрено"
+
+#: ../templates/page-contact.php:37
+msgid "Please enter a valid URL"
+msgstr "Пожалуйста, введите действительный URL"
+
+#: ../templates/page-contact.php:46
+msgid "A comment is required"
+msgstr "Требуется комментарий"
+
+#: ../templates/page-contact.php:60
+#, php-format
+msgid "Message sent from your website by: %1$s"
+msgstr "Сообщение, отправленное с вашего сайта: %1$s"
+
+#: ../templates/page-contact.php:107
+msgid "Name<span class=\"required\">*</span>"
+msgstr ""
+
+#: ../templates/page-contact.php:108
+msgid "Email<span class=\"required\">*</span>"
+msgstr ""
+
+#: ../templates/page-contact.php:109
+msgid "URL"
+msgstr ""
+
+#: ../templates/page-contact.php:110
+msgid "Message<span class=\"required\">*</span>"
+msgstr ""
+
+#: ../templates/page-contact.php:111
+msgid "Send Message"
+msgstr "Отправить Сообщение"
+
+#: ../woocommerce/cart-nav.php:16 ../woocommerce/cart-nav.php:19
+#: ../woocommerce/cart-nav.php:22
+#, php-format
+msgid "Welcome, %s"
+msgstr "Добро Пожаловать, %s"
+
+#: ../woocommerce/cart-nav.php:26
+msgid "Welcome, Guest"
+msgstr "Добро Пожаловать, Гость"
+
+#: ../woocommerce/cart-nav.php:31
+msgid "Log out of your account"
+msgstr "Выйдите из вашей учетной записи"
+
+#: ../woocommerce/cart-nav.php:31
+msgid "Logout"
+msgstr "Выйти"
+
+#: ../woocommerce/cart-nav.php:34
+msgid "Login or register for a new account"
+msgstr "Войдите или зарегистрируйтесь для новой учетной записи"
+
+#: ../woocommerce/cart-nav.php:34
+msgid "Login / Register"
+msgstr "Войти / Зарегистрироваться"
+
+#: ../woocommerce/cart-nav.php:36 ../woocommerce/woocommerce-hooks.php:27
+msgid "View your shopping cart"
+msgstr "Смотреть корзину"
+
+#: ../woocommerce/cart-nav.php:36 ../woocommerce/woocommerce-hooks.php:27
+#, php-format
+msgid "%d item - "
+msgid_plural "%d items - "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#~ msgid "Limit post number:"
+#~ msgstr "Ограничить пост номер:"
+
+#~ msgid "Offset posts:"
+#~ msgstr "Смещение сообщения:"
+
+#~ msgid "Big Slide"
+#~ msgstr "Большой Slide"
+
+#~ msgid "Blocks"
+#~ msgstr "Блоки"
+
+#~ msgid "Something went wrong."
+#~ msgstr "Что-то пошло не так."
+
+#~ msgid "Install package not available."
+#~ msgstr "Установить пакет не доступно."
+
+#~ msgid "Plugin install failed."
+#~ msgstr "Плагин установить не удалось."
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Плагин установлен успешно."
+
+#~ msgid ""
+#~ "Someone requested that the password be reset for the following account:"
+#~ msgstr "Кто-то просил, что сброс пароля для следующей учетной записи:"
+
+#~ msgid ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr ""
+#~ "Если это была ошибка, просто проигнорируйте это письмо и ничего не "
+#~ "произойдет."
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "Чтобы сбросить Ваш пароль, посетите следующий адрес:"
+
+#~ msgid "The e-mail could not be sent."
+#~ msgstr "Электронная почта не может быть отправлена."
+
+#~ msgid "Possible reason: your host may have disabled the mail() function..."
+#~ msgstr ""
+#~ "TPossible причина: хост может отключить функцию mail ()...он на е-mail не "
+#~ "может быть Отправлено."
+
+#~ msgid "View all results"
+#~ msgstr "Посмотреть все результаты"
+
+#~ msgid "No results"
+#~ msgstr "Нет результатов"
+
+#~ msgid "CLOSE"
+#~ msgstr "Закрыть"
+
+#~ msgid "All"
+#~ msgstr "Все "
+
+#~ msgid "By"
+#~ msgstr "По"
+
+#~ msgid "Load more"
+#~ msgstr "Загрузить еще"
+
+#~ msgid "View all posts in"
+#~ msgstr "Посмотреть все записи в"
+
+#~ msgid "Tags"
+#~ msgstr "Теги"
+
+#~ msgid "Previous article"
+#~ msgstr "Предыдущие статьи"
+
+#~ msgid "Next article"
+#~ msgstr "Следующая статья"
+
+#~ msgid "Authors"
+#~ msgstr "Авторы"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "RELATED ARTICLES"
+#~ msgstr "СТАТЬИ ПО ТЕМЕ"
+
+#~ msgid "MORE FROM AUTHOR"
+#~ msgstr "БОЛЬШЕ ОТ АВТОРА"
+
+#~ msgid "VIA"
+#~ msgstr "Через"
+
+#~ msgid "SOURCE"
+#~ msgstr "Источник"
+
+#~ msgid "TAGS"
+#~ msgstr "Теги"
+
+#~ msgid "SHARE"
+#~ msgstr "Поделиться"
+
+#~ msgid "Continue"
+#~ msgstr "Продолжить"
+
+#~ msgid "Name:"
+#~ msgstr "Имя:"
+
+#~ msgid "Email:"
+#~ msgstr "Адрес электронной почты:"
+
+#~ msgid "Website:"
+#~ msgstr "Сайт:"
+
+#~ msgid "Comment:"
+#~ msgstr "Комментарий:"
+
+#~ msgid "LEAVE A REPLY"
+#~ msgstr "НАПИСАТЬ ОТВЕТ"
+
+#~ msgid "Post Comment"
+#~ msgstr "Отправить Комментарий"
+
+#~ msgid "Cancel reply"
+#~ msgstr "Отменить ответ"
+
+#~ msgid "Log in to leave a comment"
+#~ msgstr "Войдите в систему чтобы оставить комментарий"
+
+#~ msgid "NO COMMENTS"
+#~ msgstr "КОММЕНТАРИЕВ НЕТ"
+
+#~ msgid "1 COMMENT"
+#~ msgstr "1 комментарий"
+
+#~ msgid "COMMENTS"
+#~ msgstr "Комментарии"
+
+#~ msgid "REVIEW OVERVIEW"
+#~ msgstr "ОБЗОР ОБЗОР"
+
+#~ msgid "SUMMARY"
+#~ msgstr "Резюме"
+
+#~ msgid "OVERALL SCORE"
+#~ msgstr "ОБЩИЙ СЧЕТ"
+
+#~ msgid "Sorry, but the page you are looking for doesn't exist."
+#~ msgstr "Извините, но страница, которую вы ищете, не существует."
+
+#~ msgid "You can go to the"
+#~ msgstr "Вы можете перейти к"
+
+#~ msgid "HOMEPAGE"
+#~ msgstr "Домашняя страница"
+
+#~ msgid "OUR LATEST POSTS"
+#~ msgstr "ВАШИ последние сообщения"
+
+#~ msgid "Posts by"
+#~ msgstr "Посты"
+
+#~ msgid "POSTS"
+#~ msgstr "Посты"
+
+#~ msgid "Posts tagged with"
+#~ msgstr "Сообщения с тегами"
+
+#~ msgid "Tag"
+#~ msgstr "Тег"
+
+#~ msgid "Daily Archives:"
+#~ msgstr "Ежедневные Архивы:"
+
+#~ msgid "Monthly Archives:"
+#~ msgstr "Ежемесячные Архивы:"
+
+#~ msgid "Yearly Archives:"
+#~ msgstr "Ежегодно Архивы:"
+
+#~ msgid "LATEST ARTICLES"
+#~ msgstr "ПОСЛЕДНИЕ СТАТЬИ"
+
+#~ msgid "search results"
+#~ msgstr "результаты поиска"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "If you're not happy with the results, please do another search"
+#~ msgstr ""
+#~ "Если Вы не довольны результатами, пожалуйста, сделатйте новый запрос"
+
+#~ msgid "Contact us"
+#~ msgstr "Свяжитесь с нами"
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "No results for your search"
+#~ msgstr "Нет результатов поиска"
+
+#~ msgid "No posts to display"
+#~ msgstr "Нет сообщений для отображения"
+
+#~ msgid "LOG IN"
+#~ msgstr "АВТОРИЗОВАТЬСЯ"
+
+#~ msgid "Sign in / Join"
+#~ msgstr "Войти / присоединиться"
+
+#~ msgid "Sign in"
+#~ msgstr "Войти в систему"
+
+#~ msgid "Sign up"
+#~ msgstr "Зарегистрируйтесь"
+
+#~ msgid "Join"
+#~ msgstr "Присоединиться"
+
+#~ msgid "Log In"
+#~ msgstr "Присоединяйся"
+
+#~ msgid "REGISTER"
+#~ msgstr "РЕГИСТР"
+
+#~ msgid "Welcome!"
+#~ msgstr "Добро пожаловать!"
+
+#~ msgid "Log into your account"
+#~ msgstr "Войдите в свой аккаунт"
+
+#~ msgid "Password recovery"
+#~ msgstr "Восстановление пароля"
+
+#~ msgid "Send My Pass"
+#~ msgstr "Отправьте Мой Пропуск"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Забыли пароль?"
+
+#~ msgid "Please wait..."
+#~ msgstr "Пожалуйста, подождите..."
+
+#~ msgid "User or password incorrect!"
+#~ msgstr "Имя пользователя или пароль неправильные!"
+
+#~ msgid "Email or username incorrect!"
+#~ msgstr "Email или имя пользователя неправильные!"
+
+#~ msgid "Email incorrect!"
+#~ msgstr "E-mail неверный!"
+
+#~ msgid "User or email already exists!"
+#~ msgstr "Пользователь или адрес электронной почты уже существует!"
+
+#~ msgid ""
+#~ "Please check your email (index or spam folder), the password was sent "
+#~ "there."
+#~ msgstr ""
+#~ "Пожалуйста, проверьте свою электронную почту (индекс или спам папки), "
+#~ "пароль был направлен туда."
+
+#~ msgid "Email address not found!"
+#~ msgstr "Адрес электронной почты не найден!"
+
+#~ msgid "Your password is reset, check your email."
+#~ msgstr "Ваш пароль будет сброшен, проверьте свою электронную почту."
+
+#~ msgid "Welcome! Log into your account"
+#~ msgstr "Добро пожаловат! Войдите в свой аккаунт"
+
+#~ msgid "Register for an account"
+#~ msgstr "Зарегистрировать аккаунт"
+
+#~ msgid "Recover your password"
+#~ msgstr "Восстановить пароль"
+
+#~ msgid "your username"
+#~ msgstr "Ваш логин"
+
+#~ msgid "your password"
+#~ msgstr "ваш пароль"
+
+#~ msgid "your email"
+#~ msgstr "ваш адрес электронной почты"
+
+#~ msgid "A password will be e-mailed to you."
+#~ msgstr "Пароль будет отправлен вам по электронной почте."
+
+#~ msgid "Like"
+#~ msgstr "Нравится "
+
+#~ msgid "Likes"
+#~ msgstr "Нравится"
+
+#~ msgid "Fans"
+#~ msgstr "Поклонники"
+
+#~ msgid "Follow"
+#~ msgstr "Следуйте"
+
+#~ msgid "Followers"
+#~ msgstr "Последователи"
+
+#~ msgid "Subscribe"
+#~ msgstr "Подписывайся"
+
+#~ msgid "Subscribers"
+#~ msgstr "Подписчики"
+
+#~ msgid "MORE STORIES"
+#~ msgstr "БОЛЬШЕ ИСТОРИЙ"
+
+#~ msgid "Latest"
+#~ msgstr "Последний"
+
+#~ msgid "Featured posts"
+#~ msgstr "Популярные сообщения"
+
+#~ msgid "Most popular"
+#~ msgstr "Наиболее популярные"
+
+#~ msgid "7 days popular"
+#~ msgstr "7 дней популярные"
+
+#~ msgid "By review score"
+#~ msgstr "На оценку"
+
+#~ msgid "Random"
+#~ msgstr "Случайные"
+
+#~ msgid "Trending Now"
+#~ msgstr "Актуальные"
+
+#~ msgid "POPULAR CATEGORY"
+#~ msgstr "ПОПУЛЯРНЫЕ КАТЕГОРИИ"
+
+#~ msgid "POPULAR POSTS"
+#~ msgstr "ПОПУЛЯРНЫЕ ЗАПИСИ"
+
+#~ msgid "EDITOR PICKS"
+#~ msgstr "Выбор автора"
+
+#~ msgid "ABOUT US"
+#~ msgstr "О НАС"
+
+#~ msgid "FOLLOW US"
+#~ msgstr "Подписка"
+
+#~ msgid "EVEN MORE NEWS"
+#~ msgstr "Eще больше новостей"
+
+#~ msgid "Previous (Left arrow key)"
+#~ msgstr "Предыдущее (стрелка влево)"
+
+#~ msgid "Next (Right arrow key)"
+#~ msgstr "Далее (стрелка вправо)"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Поделиться через Facebook"
+
+#~ msgid "Tweet on Twitter"
+#~ msgstr "Tweet на Twitter"
+
+#~ msgid "Featured"
+#~ msgstr "Рекомендуемые"
+
+#~ msgid "All time popular"
+#~ msgstr "Все время популярные"
+
+#~ msgid "More"
+#~ msgstr "Больше"
+
+#~ msgid "Register"
+#~ msgstr "Регистр"
+
+#~ msgid "of"
+#~ msgstr "из"
+
+#~ msgid "Return to tagDiv plugins panel"
+#~ msgstr "Возврат к tagDiv панели плагинов"
