@@ -27,42 +27,43 @@ if (is_active_sidebar('secondary-column-1') || is_active_sidebar('secondary-colu
 		$hide_secondary = isset($page_opts['hide_secondary']) ? $page_opts['hide_secondary'] : '';
 	} // is page
 elseif (is_single()) {
-	$post_opts      = get_post_meta($posts[0]->ID, 'post_options', true);
-	$hide_secondary = isset($post_opts['hide_secondary']) ? $post_opts['hide_secondary'] : '';
+	$post_opts = get_post_meta($posts[0]->ID, 'post_options', true);
+	// $hide_secondary = isset($post_opts['hide_secondary']) ? $post_opts['hide_secondary'] : '';
+	$hide_secondary = 'true';
 } // is single
 else {
 		$hide_secondary = $pls_hide_secondary;
 	}
 	if ('true' != $hide_secondary): ?>
-		        <div id="secondary" role="complementary">
-		            <div class="wrap clear">
-		                <div class="column one-third">
-							<?php
+				        <div id="secondary" role="complementary">
+				            <div class="wrap clear">
+				                <div class="column one-third">
+									<?php
 	if (is_active_sidebar('secondary-column-1')) {
 		dynamic_sidebar('secondary-column-1');
 	}
 
 	?>
-		                </div><!-- .column one-third -->
-		                <div class="column one-third">
-							<?php
+				                </div><!-- .column one-third -->
+				                <div class="column one-third">
+									<?php
 	if (is_active_sidebar('secondary-column-2')) {
 		dynamic_sidebar('secondary-column-2');
 	}
 
 	?>
-		                </div><!-- .column one-third -->
-		                <div class="column one-third last">
-							<?php
+				                </div><!-- .column one-third -->
+				                <div class="column one-third last">
+									<?php
 	if (is_active_sidebar('secondary-column-3')) {
 		dynamic_sidebar('secondary-column-3');
 	}
 
 	?>
-		                </div><!-- .column one-third .last -->
-		            </div><!-- #secondary .wrap -->
-		        </div><!-- #secondary -->
-			<?php endif; // hide secondary
+				                </div><!-- .column one-third .last -->
+				            </div><!-- #secondary .wrap -->
+				        </div><!-- #secondary -->
+					<?php endif; // hide secondary
 endif; // if widget areas are active ?>
 <footer id="footer" role="contentinfo">
     <div class="wrap clear">
