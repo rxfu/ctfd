@@ -11,3 +11,20 @@ Version:        2.4.2
 h3.sc-title {
 	color: #757575;
 }
+#secondary .post-content h4 {
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	width: 280px;
+	float: left;
+}
+#secondary .post-content .entry-meta {
+	float: right;
+}
+#footer a {
+	color: #424242;
+}
+#footer a:hover {
+	color: #f44336;
+}
