@@ -28,3 +28,16 @@ h3.sc-title {
 #footer a:hover {
 	color: #f44336;
 }
+#content  .entry-list {
+	margin-bottom: 0;
+}
+#content .entry-list-right {
+	margin-bottom: 0;
+}
+#content .entry-list-right h4 {
+	float: left;
+	margin-bottom: 0;
+}
+#content .entry-list-right .entry-meta {
+	float: right;
+}
